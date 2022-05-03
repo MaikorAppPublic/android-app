@@ -47,3 +47,4 @@ Build tools
 
 ## android-app
 
+This project requires [vm-interface-android](https://github.com/MaikorAppPublic/vm-interface-android) to be in the same directory (or change the path in `adapter/build.gradle`).
